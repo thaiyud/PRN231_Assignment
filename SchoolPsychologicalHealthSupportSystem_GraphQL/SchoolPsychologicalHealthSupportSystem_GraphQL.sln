@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolPsychologicalHealthSupportSystem_Repo", "SchoolPsychologicalHealthSupportSystem\SchoolPsychologicalHealthSupportSystem_Repo.csproj", "{10E2B45E-3D19-3419-7337-5C5F8AE538F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolPsychologicalHealthSupportSystem_Service", "SchoolPsychologicalHealthSupportSystem_Service\SchoolPsychologicalHealthSupportSystem_Service.csproj", "{A78FF15A-71D2-E326-C01E-140A81AE6E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolPsychologicalHealthSupportSystem_GraphQL_API", "SchoolPsychologicalHealthSupportSystem_GraphQL_API\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj", "{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolPsychologicalHealthSupportSystem_GraphQL_View", "SchoolPsychologicalHealthSupportSystem_GraphQL_View\SchoolPsychologicalHealthSupportSystem_GraphQL_View.csproj", "{51C5C913-B005-4F53-AB92-7AC9682A5AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E2B45E-3D19-3419-7337-5C5F8AE538F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E2B45E-3D19-3419-7337-5C5F8AE538F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E2B45E-3D19-3419-7337-5C5F8AE538F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E2B45E-3D19-3419-7337-5C5F8AE538F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78FF15A-71D2-E326-C01E-140A81AE6E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78FF15A-71D2-E326-C01E-140A81AE6E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78FF15A-71D2-E326-C01E-140A81AE6E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78FF15A-71D2-E326-C01E-140A81AE6E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C5C913-B005-4F53-AB92-7AC9682A5AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C5C913-B005-4F53-AB92-7AC9682A5AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C5C913-B005-4F53-AB92-7AC9682A5AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C5C913-B005-4F53-AB92-7AC9682A5AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {161207CF-42BF-4CD8-B6C3-E3A37CA863A6}
+	EndGlobalSection
+EndGlobal

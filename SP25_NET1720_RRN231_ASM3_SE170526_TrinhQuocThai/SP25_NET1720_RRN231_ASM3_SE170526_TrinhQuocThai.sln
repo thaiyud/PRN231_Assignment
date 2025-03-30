@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolPsychologicalHealthSupportSystem_Blazer_Server", "SchoolPsychologicalHealthSupportSystem_Blazer_Server\SchoolPsychologicalHealthSupportSystem_Blazer_Server.csproj", "{B68A65F9-7187-4AC7-AF6F-A0AD81E283D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolPsychologicalHealthSupportSystem_Repo", "SchoolPsychologicalHealthSupportSystem\SchoolPsychologicalHealthSupportSystem_Repo.csproj", "{10E2B45E-3D19-3419-7337-5C5F8AE538F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolPsychologicalHealthSupportSystem_Service", "SchoolPsychologicalHealthSupportSystem_Service\SchoolPsychologicalHealthSupportSystem_Service.csproj", "{A78FF15A-71D2-E326-C01E-140A81AE6E7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolPsychologicalHealthSupportSystem_Blazer_Client", "SchoolPsychologicalHealthSupportSystem_Blazer_Client\SchoolPsychologicalHealthSupportSystem_Blazer_Client.csproj", "{AA2071B6-996F-4F51-B6B4-603720F18901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68A65F9-7187-4AC7-AF6F-A0AD81E283D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68A65F9-7187-4AC7-AF6F-A0AD81E283D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68A65F9-7187-4AC7-AF6F-A0AD81E283D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68A65F9-7187-4AC7-AF6F-A0AD81E283D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E2B45E-3D19-3419-7337-5C5F8AE538F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E2B45E-3D19-3419-7337-5C5F8AE538F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E2B45E-3D19-3419-7337-5C5F8AE538F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E2B45E-3D19-3419-7337-5C5F8AE538F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78FF15A-71D2-E326-C01E-140A81AE6E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78FF15A-71D2-E326-C01E-140A81AE6E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78FF15A-71D2-E326-C01E-140A81AE6E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78FF15A-71D2-E326-C01E-140A81AE6E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2071B6-996F-4F51-B6B4-603720F18901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2071B6-996F-4F51-B6B4-603720F18901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2071B6-996F-4F51-B6B4-603720F18901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2071B6-996F-4F51-B6B4-603720F18901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862B3E2F-B582-4313-94AD-F9385E9BE050}
+	EndGlobalSection
+EndGlobal

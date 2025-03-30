@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_api\\helpdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|solutionrelative:peprn231_su24_009909_api\\helpdoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42315269-5D67-4CAA-885D-482DFD8B303E}|PEPRN231_SU24_009909_Service\\PEPRN231_SU24_009909_Service.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_service\\footballclubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42315269-5D67-4CAA-885D-482DFD8B303E}|PEPRN231_SU24_009909_Service\\PEPRN231_SU24_009909_Service.csproj|solutionrelative:peprn231_su24_009909_service\\footballclubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_api\\controllers\\footballclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|solutionrelative:peprn231_su24_009909_api\\controllers\\footballclubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_api\\controllers\\footballplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|solutionrelative:peprn231_su24_009909_api\\controllers\\footballplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42315269-5D67-4CAA-885D-482DFD8B303E}|PEPRN231_SU24_009909_Service\\PEPRN231_SU24_009909_Service.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_service\\footballplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42315269-5D67-4CAA-885D-482DFD8B303E}|PEPRN231_SU24_009909_Service\\PEPRN231_SU24_009909_Service.csproj|solutionrelative:peprn231_su24_009909_service\\footballplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_api\\controllers\\premierleagueaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|solutionrelative:peprn231_su24_009909_api\\controllers\\premierleagueaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|solutionrelative:peprn231_su24_009909_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42315269-5D67-4CAA-885D-482DFD8B303E}|PEPRN231_SU24_009909_Service\\PEPRN231_SU24_009909_Service.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_service\\premierleagueaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42315269-5D67-4CAA-885D-482DFD8B303E}|PEPRN231_SU24_009909_Service\\PEPRN231_SU24_009909_Service.csproj|solutionrelative:peprn231_su24_009909_service\\premierleagueaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE41D801-096B-41F9-A3DA-0AB49006EC01}|PEPRN231_SU24_009909_Repo\\PEPRN231_SU24_009909_Repo.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_repo\\footballplayervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE41D801-096B-41F9-A3DA-0AB49006EC01}|PEPRN231_SU24_009909_Repo\\PEPRN231_SU24_009909_Repo.csproj|solutionrelative:peprn231_su24_009909_repo\\footballplayervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE41D801-096B-41F9-A3DA-0AB49006EC01}|PEPRN231_SU24_009909_Repo\\PEPRN231_SU24_009909_Repo.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_repo\\models\\englishpremierleague2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE41D801-096B-41F9-A3DA-0AB49006EC01}|PEPRN231_SU24_009909_Repo\\PEPRN231_SU24_009909_Repo.csproj|solutionrelative:peprn231_su24_009909_repo\\models\\englishpremierleague2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_be\\peprn231_su24_009909_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C27894EA-2D21-493C-9947-A0CFAFCF3124}|PEPRN231_SU24_009909_API\\PEPRN231_SU24_009909_API.csproj|solutionrelative:peprn231_su24_009909_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FootballClubService.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Service\\FootballClubService.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_Service\\FootballClubService.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Service\\FootballClubService.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_Service\\FootballClubService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:01:27.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FootballPlayerController.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\Controllers\\FootballPlayerController.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_API\\Controllers\\FootballPlayerController.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\Controllers\\FootballPlayerController.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_API\\Controllers\\FootballPlayerController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:57:08.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FootballClubController.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\Controllers\\FootballClubController.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_API\\Controllers\\FootballClubController.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\Controllers\\FootballClubController.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_API\\Controllers\\FootballClubController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:57:08.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FootballPlayerService.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Service\\FootballPlayerService.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_Service\\FootballPlayerService.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Service\\FootballPlayerService.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_Service\\FootballPlayerService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:36:54.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PremierLeagueAccountController.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\Controllers\\PremierLeagueAccountController.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_API\\Controllers\\PremierLeagueAccountController.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\Controllers\\PremierLeagueAccountController.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_API\\Controllers\\PremierLeagueAccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:32:49.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "helpDoc.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\helpDoc.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_API\\helpDoc.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\helpDoc.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_API\\helpDoc.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:07:47.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\Program.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_API\\Program.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\Program.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_API\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:30:21.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PremierLeagueAccountService.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Service\\PremierLeagueAccountService.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_Service\\PremierLeagueAccountService.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Service\\PremierLeagueAccountService.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_Service\\PremierLeagueAccountService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:28:22.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FootballPlayerVM.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Repo\\FootballPlayerVM.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_Repo\\FootballPlayerVM.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Repo\\FootballPlayerVM.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_Repo\\FootballPlayerVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:23:56.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnglishPremierLeague2024DBContext.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Repo\\Models\\EnglishPremierLeague2024DBContext.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_Repo\\Models\\EnglishPremierLeague2024DBContext.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_Repo\\Models\\EnglishPremierLeague2024DBContext.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_Repo\\Models\\EnglishPremierLeague2024DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T07:20:53.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\appsettings.json",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_API\\appsettings.json",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_BE\\PEPRN231_SU24_009909_API\\appsettings.json",
+              "RelativeToolTip": "PEPRN231_SU24_009909_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T07:16:50.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

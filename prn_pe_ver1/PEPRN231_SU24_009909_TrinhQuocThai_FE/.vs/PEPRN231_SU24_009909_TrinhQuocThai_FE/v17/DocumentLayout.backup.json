@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\models\\footballclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\models\\footballclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\controllers\\footballplayerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\controllers\\footballplayerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\views\\footballplayers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\views\\footballplayers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\views\\footballplayers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\views\\footballplayers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\controllers\\premierleagueaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\controllers\\premierleagueaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\views\\premierleagueaccounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\views\\premierleagueaccounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\models\\loginreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\models\\loginreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\models\\footballplayervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\models\\footballplayervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\models\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\models\\footballplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\models\\premierleagueaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\models\\premierleagueaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\views\\premierleagueaccounts\\forbidden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\views\\premierleagueaccounts\\forbidden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\views\\footballplayers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\views\\footballplayers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|d:\\fpt\\sem8\\prn321\\project\\prn_pe_ver1\\peprn231_su24_009909_trinhquocthai_fe\\peprn231_su24_009909_trinhquocthai_mvc\\views\\footballplayers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8B6E745-5E86-4C19-9E99-C1AEE280B21C}|PEPRN231_SU24_009909_TrinhQuocThai_MVC\\PEPRN231_SU24_009909_TrinhQuocThai_MVC.csproj|solutionrelative:peprn231_su24_009909_trinhquocthai_mvc\\views\\footballplayers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FootballClub.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballClub.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballClub.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballClub.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballClub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:02:13.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 478,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Delete.cshtml",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Delete.cshtml",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Delete.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T05:30:57.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PremierLeagueAccountsController.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Controllers\\PremierLeagueAccountsController.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Controllers\\PremierLeagueAccountsController.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Controllers\\PremierLeagueAccountsController.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Controllers\\PremierLeagueAccountsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAvwCQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:29:44.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FootballPlayersController.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Controllers\\FootballPlayersController.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Controllers\\FootballPlayersController.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Controllers\\FootballPlayersController.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Controllers\\FootballPlayersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:03:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Program.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Program.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:25:36.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FootballPlayerVM.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballPlayerVM.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballPlayerVM.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballPlayerVM.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballPlayerVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:22:11.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\PremierLeagueAccounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\PremierLeagueAccounts\\Login.cshtml",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\PremierLeagueAccounts\\Login.cshtml",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\PremierLeagueAccounts\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T04:39:14.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Details.cshtml",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Details.cshtml",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Details.cshtml",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAawC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T04:16:02.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\appsettings.json",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\appsettings.json",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T03:25:30.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginReq.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\LoginReq.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\LoginReq.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\LoginReq.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\LoginReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:41:31.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FootballPlayer.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballPlayer.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballPlayer.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballPlayer.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\FootballPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:02:22.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PremierLeagueAccount.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\PremierLeagueAccount.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\PremierLeagueAccount.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\PremierLeagueAccount.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\PremierLeagueAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:02:23.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:23:20.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Forbidden.cshtml",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\PremierLeagueAccounts\\Forbidden.cshtml",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\PremierLeagueAccounts\\Forbidden.cshtml",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\PremierLeagueAccounts\\Forbidden.cshtml",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\PremierLeagueAccounts\\Forbidden.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T04:39:26.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Create.cshtml",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Create.cshtml",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Create.cshtml",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T04:23:24.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T04:39:18.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Index.cshtml",
+              "RelativeDocumentMoniker": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\prn_pe_ver1\\PEPRN231_SU24_009909_TrinhQuocThai_FE\\PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Index.cshtml",
+              "RelativeToolTip": "PEPRN231_SU24_009909_TrinhQuocThai_MVC\\Views\\FootballPlayers\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T04:23:25.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

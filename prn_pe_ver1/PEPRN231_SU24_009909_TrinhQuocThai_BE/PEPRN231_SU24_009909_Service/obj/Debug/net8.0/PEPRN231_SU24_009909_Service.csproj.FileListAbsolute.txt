@@ -1,0 +1,15 @@
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\bin\Debug\net8.0\PEPRN231_SU24_009909_Service.deps.json
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\bin\Debug\net8.0\PEPRN231_SU24_009909_Service.dll
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\bin\Debug\net8.0\PEPRN231_SU24_009909_Service.pdb
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\bin\Debug\net8.0\PEPRN231_SU24_009909_Repo.dll
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\bin\Debug\net8.0\PEPRN231_SU24_009909_Repo.pdb
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\PEPRN231_SU24_009909_Service.csproj.AssemblyReference.cache
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\PEPRN231_SU24_009909_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\PEPRN231_SU24_009909_Service.AssemblyInfoInputs.cache
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\PEPRN231_SU24_009909_Service.AssemblyInfo.cs
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\PEPRN231_SU24_009909_Service.csproj.CoreCompileInputs.cache
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\PEPRN231.9661F33B.Up2Date
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\PEPRN231_SU24_009909_Service.dll
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\refint\PEPRN231_SU24_009909_Service.dll
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\PEPRN231_SU24_009909_Service.pdb
+D:\FPT\sem8\prn321\project\prn_pe_ver1\PEPRN231_SU24_009909_TrinhQuocThai_BE\PEPRN231_SU24_009909_Service\obj\Debug\net8.0\ref\PEPRN231_SU24_009909_Service.dll

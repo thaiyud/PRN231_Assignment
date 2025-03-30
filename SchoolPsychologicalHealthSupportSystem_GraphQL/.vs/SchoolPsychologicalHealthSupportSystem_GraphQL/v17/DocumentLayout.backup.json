@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\blog\\blogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\blog\\blogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78FF15A-71D2-E326-C01E-140A81AE6E7D}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78FF15A-71D2-E326-C01E-140A81AE6E7D}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\appquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\appquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\appmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\appmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78FF15A-71D2-E326-C01E-140A81AE6E7D}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_service\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78FF15A-71D2-E326-C01E-140A81AE6E7D}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_service\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78FF15A-71D2-E326-C01E-140A81AE6E7D}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78FF15A-71D2-E326-C01E-140A81AE6E7D}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\blog\\blogmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\blog\\blogmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\blog\\bloginputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\blog\\bloginputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\blog\\blogtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\blog\\blogtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\appschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\appschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\cate\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\cate\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem\\dbcontext\\net1720_prn231_prj_g1_schoolpsychologicalhealthsupportsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\dbcontext\\net1720_prn231_prj_g1_schoolpsychologicalhealthsupportsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\Migrations\\20250330195525_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SchoolPsychologicalHealthSupportSystem\\Migrations\\20250330195525_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem\\schoolpsychologicalhealthsupportsystem_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\schoolpsychologicalhealthsupportsystem_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E2B45E-3D19-3419-7337-5C5F8AE538F8}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\cate\\categorymutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\cate\\categorymutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\cate\\categoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\graphql\\cate\\categoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\schoolpsychologicalhealthsupportsystem_graphql_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\schoolpsychologicalhealthsupportsystem_graphql_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|d:\\fpt\\sem8\\prn321\\project\\schoolpsychologicalhealthsupportsystem_graphql\\schoolpsychologicalhealthsupportsystem_graphql_api\\schoolpsychologicalhealthsupportsystem_graphql_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BCBFAF1E-9A4F-48C4-B688-22AB6D3FA65D}|SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_graphql_api\\schoolpsychologicalhealthsupportsystem_graphql_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogInputType.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogInputType.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogInputType.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogInputType.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogInputType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:24:49.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\CategoryService.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_Service\\CategoryService.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_Service\\CategoryService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:52:20.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogQuery.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogQuery.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogQuery.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogQuery.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:51:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppQuery.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppQuery.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppQuery.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppQuery.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:31:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppMutation.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppMutation.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppMutation.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppMutation.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppMutation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:31:43.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:43:52.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:58:49.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_Service\\IBlogService.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\IBlogService.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_Service\\IBlogService.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_Service\\IBlogService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:43:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogType.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogType.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogType.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogType.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:50:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogMutation.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogMutation.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogMutation.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogMutation.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Blog\\BlogMutation.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:51:28.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\Program.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\Program.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:28:46.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppSchema.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppSchema.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppSchema.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppSchema.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\AppSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:30:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:46:43.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryType.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryType.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryType.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:58:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\Models\\Blog.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\Models\\Blog.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:58:22.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\DBContext\\NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\DBContext\\NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\DBContext\\NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\DBContext\\NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:57:15.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SchoolPsychologicalHealthSupportSystem_Repo",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T19:09:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:58:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\CategoryRepo.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\CategoryRepo.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:58:50.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250330195525_init.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\Migrations\\20250330195525_init.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\Migrations\\20250330195525_init.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem\\Migrations\\20250330195525_init.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\Migrations\\20250330195525_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:55:25.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\appsettings.json",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\appsettings.json",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T17:51:02.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryMutation.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryMutation.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryMutation.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryMutation.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryMutation.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAvwDcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:35:31.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryQuery.cs",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryQuery.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryQuery.cs",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryQuery.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\GraphQL\\Cate\\CategoryQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:34:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T14:50:03.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SchoolPsychologicalHealthSupportSystem_GraphQL_API.http",
+              "DocumentMoniker": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.http",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.http",
+              "ToolTip": "D:\\FPT\\sem8\\prn321\\project\\SchoolPsychologicalHealthSupportSystem_GraphQL\\SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.http",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_GraphQL_API\\SchoolPsychologicalHealthSupportSystem_GraphQL_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-30T17:52:01.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
