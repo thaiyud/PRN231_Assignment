@@ -1,0 +1,43 @@
+
+query {
+  blogs {
+    id
+    title
+    category {
+      name
+    }
+  }
+}
+
+mutation {
+  blog {
+    deleteBlog(id: 123)
+  }
+}
+
+mutation {
+  blog {
+    createBlog(blogInput: {
+      id: 1,
+      name: "Blog 1",
+      title: "GraphQL với C#",
+      categoryId: 2,
+      content: "Nội dung blog...",
+      topicImages: "image.png"
+    })
+  }
+}
+
+mutation {
+  blog {
+    updateBlog(blogInput: {
+      id: 1,
+      name: "Updated Blog",
+      title: "GraphQL Update Example",
+      categoryId: 2,
+      content: "Updated content...",
+      topicImages: "updated-image.png"
+    })
+  }
+}
+
